@@ -1,7 +1,3 @@
-## NEDES.
-
-`DES Encrypt`
-
 ### Usage.
 
 ```objective-c
